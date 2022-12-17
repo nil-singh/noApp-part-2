@@ -9,4 +9,4 @@ node app.js
 
 To upload the csv file 
 
-please upload thid file  :-  public/upload/Contact Form-csv.csv
+please upload thid file  :-  public/uploads/Contact Form-csv.csv
